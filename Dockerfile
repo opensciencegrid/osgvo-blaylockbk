@@ -12,6 +12,7 @@ RUN yum -y install \
            hdf5-devel \
            netcdf \
            netcdf-devel \
+           netcdf4-python \
            proj \
            proj-devel \
            python-pip \
